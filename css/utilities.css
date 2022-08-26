@@ -35,11 +35,16 @@
   transform: scale(0.98);
 }
 
+/* Backgrounds & colored buttons */
+.bg-primary,
+.btn-primary {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
 .text-center {
   text-align: center;
 }
-
-
 
 
 .flex {
